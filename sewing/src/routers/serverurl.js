@@ -1,0 +1,1 @@
+export const serverurl = 'https://sewing.run.goorm.site';
